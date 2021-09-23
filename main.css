@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(45deg, #8EC5FC, #E0C3FC, #8EC5FC);
+}
+
+/************************* header ****************/
+
+header {
+    background: black;
+    color: cornsilk;
+    height: 70px;
+}
+
+#brand{
+    width: 40%;
+    float: left;
+    text-align: center;
+    line-height: 70px;
+}
+#menu{
+    width: 60%;
+    float: right;
+    text-align: center;
+}
+
+a{
+    color: cornsilk;
+    text-decoration: none;
+    margin-right: 50px;
+    line-height: 70px;
+}
+
+/************************* main ****************/
+
+#title{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#pizza {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#dp{
+    background: linear-gradient(45deg, #FFE53B, #FF2525);
+    width: 50%;
+    margin: 10px auto;
+    color: cornsilk;
+    border-radius: 50%;
+}
+
+#burgers {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#br{
+    text-align: center;
+    background: linear-gradient(45deg, #FFE53B, #FF2525);
+    width: 50%;
+    margin:20px auto 10px;
+    color: cornsilk;
+    border-radius: 50%;
+}
+
+#ffs {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#ff{
+    text-align: center;
+    background: linear-gradient(45deg, #FFE53B, #FF2525);
+    width: 50%;
+    margin:20px auto 10px;
+    color: cornsilk;
+    border-radius: 50%;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+    background: black;
+    color: cornsilk;
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+}
+
+img{
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    margin-top: 20px;
+}
+
+h5 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#icons{
+    margin: 20px 0;
+}
+
+#icons span{
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
